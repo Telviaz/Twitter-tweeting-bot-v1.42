@@ -1,0 +1,2 @@
+Hello, this is my first tweet using my Twitter bot! #NodeJS #TwitterBot
+This is another tweet from the bot. Have a great day!
